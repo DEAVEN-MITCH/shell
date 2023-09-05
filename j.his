@@ -1,0 +1,10 @@
+history
+history --help
+history -w j.his
+history 
+history 
+cat j.his 
+j.his
+./j.his
+cat j.his 
+./j.his
